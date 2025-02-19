@@ -1,0 +1,15 @@
+*body{
+    font-family: verdana;
+    text-align: center;
+    background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDHOoC5uPm90&psig=AOvVaw12SOFNN3b6UN9x9tKnPsSk&ust=1740097618336000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDyvcHJzosDFQAAAAAdAAAAABAR");
+
+}
+button{
+    padding: 10px;
+    background-color: rgb(42, 42, 157);
+    color: #fff;
+}
+
+
+
+
